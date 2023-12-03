@@ -1,6 +1,7 @@
 # StepSecurity Maintained Conventional PR Title Action
 
 Forked from: [aslafy-z/conventional-pr-title-action](https://github.com/aslafy-z/conventional-pr-title-action)
+
 This is a [GitHub Action](https://github.com/features/actions) that ensures your PR title matches the [Conventional Commits spec](https://www.conventionalcommits.org/).
 
 This is helpful when you're using [semantic-release](https://github.com/semantic-release/semantic-release) with the Conventional Commits preset. When using the `Squash and merge` strategy, GitHub will suggest to use the PR title as the commit message. With this action you can validate that the PR title will lead to a correct commit message.
